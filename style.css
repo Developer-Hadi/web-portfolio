@@ -1,0 +1,37 @@
+body{
+    margin: 0 auto;
+    padding: 0;
+    font-family: 'Roboto Mono', ; 
+    font-size: 18px;
+}
+
+section{
+    height: 500px;
+}
+#first_part{
+    background: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+.left{
+    width: 40%;
+    margin: 40px 80px;
+    float: left;
+}
+.left h1{
+    font-size: 50px;
+}
+.left h1 span{
+    color: #FFA500;
+}
+.left h3{
+    font-size: 26px;
+}
+.right{
+    /* width: 40%; */
+    float: left;
+    margin: 40px 80px;
+}
+.right img{
+    width: 400px;
+    height: 400px;
+}
